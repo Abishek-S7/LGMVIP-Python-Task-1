@@ -1,4 +1,4 @@
-# Importing the libraries codewithcurious.com
+# Importing the libraries 
 import pygame
 import time
 import random
