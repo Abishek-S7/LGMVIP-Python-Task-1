@@ -1,4 +1,3 @@
-# LGMVIP-Python-Task-1
 
 ## PROJECT TO CREATE A SNAKE GAME
 
